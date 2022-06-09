@@ -32,7 +32,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 instalado [MySQl::Workbench](https://www.mysql.com/products/workbench/).
 
 
-### 🔧 Configurando do Banco de Dados (MySQL)
+### 🔧 Configurando Banco de Dados (MySQL)
 
 
 
