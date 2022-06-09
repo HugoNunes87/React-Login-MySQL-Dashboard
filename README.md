@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-configurando-banco-de-dados">Bando de Dados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-configurando-banco-de-dados">Banco de Dados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Lincença</a>
 </p>
@@ -21,6 +21,12 @@ Projeto com tela de login,cadastro e Dashboard, utilizando MySQL e API'S
  ### ✅ Demonstração
  <p align="center">
   <img src="Client/src/Assets/to_readme/LoginDashboard.gif">
+  
+   #banco
+    ##idusuarios
+    ##email
+    ##password
+    
 </p>
 
 
@@ -32,10 +38,11 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 instalado [MySQl::Workbench](https://www.mysql.com/products/workbench/).
 
 
-### 🔧 Configurando Banco de Dados (MySQL)
+### 🔧 Configurando Banco de Dados
  <p align="center">
   <img src="Client/src/Assets/to_readme/banco.gif" >
 </p>
+
 
 
 ### 📗 Rodando a Aplicação (web)
@@ -58,15 +65,17 @@ Server
 4. $ npm rum dev
 ```
 
-### 🚀 Tecnologias
+## 🚀 Bibliotecas usadas
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- ReactJS
-- Javascript
-- Bootstrap
-- HTML
-- CSS
+### Front-end
+* react-chartjs-2s
+* chart.js
+### Back-end
+* express
+* mysql
+* nodemon
+* cors
+* Formik
 
 
 ### 📝 Licença
