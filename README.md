@@ -20,13 +20,7 @@ Projeto com tela de login,cadastro e Dashboard, utilizando MySQL e API'S
   
  ### ✅ Demonstração
  <p align="center">
-  <img src="Client/src/Assets/to_readme/LoginDashboard.gif">
-  
-   #banco
-    ##idusuarios
-    ##email
-    ##password
-    
+  <img src="Client/src/Assets/to_readme/LoginDashboard.gif"> 
 </p>
 
 
