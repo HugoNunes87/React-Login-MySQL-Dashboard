@@ -70,6 +70,7 @@ Server
 * nodemon
 * cors
 * Formik
+* bycrypt
 
 
 ### 📝 Licença
