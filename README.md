@@ -33,13 +33,9 @@ instalado [MySQl::Workbench](https://www.mysql.com/products/workbench/).
 
 
 ### 🔧 Configurando Banco de Dados (MySQL)
-LLLLLLLLLLLL
-
-
-
-
-
-
+ <p align="center">
+  <img src="Client/src/Assets/to_readme/banco.gif" >
+</p>
 
 
 ### 📗 Rodando a Aplicação (web)
