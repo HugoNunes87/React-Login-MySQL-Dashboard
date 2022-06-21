@@ -54,9 +54,7 @@ Client
 Server
 1. Change your mySQL database data server/index.js
 2. $ cd server
-3. $ npm install 
-  or $ yarn
-4. $ npm rum dev
+3. $ npm rum dev
 ```
 
 ## 🚀 Bibliotecas usadas
