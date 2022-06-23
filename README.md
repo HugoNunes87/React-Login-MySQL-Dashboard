@@ -1,5 +1,5 @@
 <h1 align="center">
-    LOGIN E DASHBOARD COM MYSQL E API
+    REACT LOGIN E DASHBOARD COM MYSQL E API
 </h1>
 <h3 align="center"> 
   🚧  Finalizado  🚧
