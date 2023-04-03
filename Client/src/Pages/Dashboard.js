@@ -9,9 +9,7 @@ function HomePage() {
 
 
     /* API Moedas*/
-
     const url = 'https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL'
-
 
     fetch(url).then(res => res.json()
     ).then(conteudo => {
@@ -59,6 +57,7 @@ function HomePage() {
         <div className="App">
             <div className='content'>
                 <Header />
+                
                 <div class="animated fadeIn">
                     <div class="row">
                         <div class="col-lg-3 col-md-6">
