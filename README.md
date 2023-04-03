@@ -1,5 +1,5 @@
 <h1 align="center">
-    LOGIN E DASHBOARD COM MYSQL E API
+    REACT LOGIN E DASHBOARD COM MYSQL E API
 </h1>
 <h3 align="center"> 
   🚧  Finalizado  🚧
@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-configurando-banco-de-dados">Banco de Dados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-bibliotecas-usadas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Lincença</a>
 </p>
 
@@ -54,9 +54,7 @@ Client
 Server
 1. Change your mySQL database data server/index.js
 2. $ cd server
-3. $ npm install 
-  or $ yarn
-4. $ npm rum dev
+3. $ npm rum dev
 ```
 
 ## 🚀 Bibliotecas usadas
